@@ -1,0 +1,6 @@
+shiny==1.0.1
+shinywidgets==0.3.3
+plotly==5.22.0
+pandas==2.2.2
+numpy==1.26.4
+uvicorn==0.30.1

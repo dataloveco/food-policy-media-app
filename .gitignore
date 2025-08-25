@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/derived data you might not want to track
+outputs_media_policy/*.csv
+outputs_media_policy/*.png
+
