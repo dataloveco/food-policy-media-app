@@ -2,7 +2,7 @@
 
 An interactive [Shiny for Python](https://shiny.posit.co/py/) application for exploring the relationship between **media coverage** (volume and sentiment) and **food policy actions** in the U.S.
 
-Built as part of **FIN-6305 Quantitative Methods III**, University of Denver.
+Built as part of **FIN-6305 Applied Quantitative Methods**, University of Denver.
 
 ## ✨ Features
 
